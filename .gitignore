@@ -1,0 +1,12 @@
+train_data
+*.dict
+*.dic
+*.data
+goods_name
+dict
+*.bin
+out_of_voc
+synonyms
+tf_dict
+tmp
+*.pkl
